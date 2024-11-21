@@ -6,6 +6,7 @@ Building an accurate job recommendation system without resorting to complex mach
 
 
 **III. METHODOLOGY**
+
 1.Perform the Data Collection part
 
 2.Data Preprocessing have to be done to reduce outliers in the final result
@@ -40,6 +41,9 @@ Prior to analysis preprocessing of data  is essential to mitigate impact of the 
 The objective aim is to enhance user engagement and statisfaction by providing suggestions that are relevent and advantageous by incorporating user defined model.This holistic approach combines advanced data processing methodologies with a keen focus on personalized recommendations, laying the groundwork for insightful insights and actionable outcomes in the dynamic landscape of career development and education
 
 **WorkFlow**
+
+
+
 ![image](https://github.com/user-attachments/assets/d48ab7d3-0283-4ca7-a6ec-9404f058f9d4)
 
 **IV. RESULT AND FINDINGS**
